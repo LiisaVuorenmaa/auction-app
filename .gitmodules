@@ -1,0 +1,3 @@
+[submodule "tjts-5901-auction-system"]
+	path = tjts-5901-auction-system
+	url = https://gitlab.jyu.fi/contain-the-cry/tjts-5901-auction-system.git
